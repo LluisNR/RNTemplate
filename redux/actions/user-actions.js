@@ -1,5 +1,5 @@
 export const USER_ACTIONS = {
-  LOGIN: 'UserAction.LOGIN'
+  LOGIN: 'UserAction.LOGIN',
 }
 
 export const login = () => {
